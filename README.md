@@ -1,5 +1,4 @@
 Wolcano
 =======
-Simplie Wake-On-Lan client
+Simplie Wake-On-Lan client. That's it.
 
-Yup, this is it. This is exactly what the name says. 
