@@ -1,0 +1,9 @@
+C:\CodeStuff\Wolcano\Wolcano\bin\Debug\Wolcano.exe.config
+C:\CodeStuff\Wolcano\Wolcano\bin\Debug\Wolcano.exe
+C:\CodeStuff\Wolcano\Wolcano\bin\Debug\Wolcano.pdb
+C:\CodeStuff\Wolcano\Wolcano\obj\Debug\Wolcano.csprojResolveAssemblyReference.cache
+C:\CodeStuff\Wolcano\Wolcano\obj\Debug\Wolcano.MainForm.resources
+C:\CodeStuff\Wolcano\Wolcano\obj\Debug\Wolcano.Properties.Resources.resources
+C:\CodeStuff\Wolcano\Wolcano\obj\Debug\Wolcano.csproj.GenerateResource.Cache
+C:\CodeStuff\Wolcano\Wolcano\obj\Debug\Wolcano.exe
+C:\CodeStuff\Wolcano\Wolcano\obj\Debug\Wolcano.pdb

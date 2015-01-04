@@ -1,0 +1,7 @@
+<Settings>
+  <PowerEngineSettings>
+    <DefaultIp>127.0.0.1</DefaultIp>
+    <DefaultMac>00-00-00-00-00-00</DefaultMac>
+    <DefaultPort>7</DefaultPort>
+  </PowerEngineSettings>
+</Settings>
